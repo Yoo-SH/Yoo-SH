@@ -4,8 +4,7 @@
 - Backend Development 
 - AI & Machine Learning 
 
-## 🔧 Tech Stack
-### 🛠️ backend tech
+## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
