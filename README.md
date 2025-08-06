@@ -18,6 +18,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## 📊 GitHub Stats
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yoo-SH&theme=default)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yoo-SH&theme=default)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yoo-SH&theme=default&utcOffset=9)
 
