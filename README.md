@@ -21,5 +21,3 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yoo-SH&theme=default)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yoo-SH&theme=default)
-
