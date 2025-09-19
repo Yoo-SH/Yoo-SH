@@ -37,6 +37,8 @@ Contact: ads137485@jbnu.ac.kr
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 🎖️ Awards/Certificates
+🏅 2025 호남 IS 코딩챌린지 장려상
+
 🥉 2025 SW중심대학 호남권 LLM 해커톤 경진대회 우수상
 
 🥇 2024 전북테크노파크 공공데이터 활용 창업경진대회 제품 및 서비스 개발 부분 대상
