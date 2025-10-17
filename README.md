@@ -1,11 +1,9 @@
-## 💡 About Me!
+## 💡Areas of Interest
 - Backend Development 
 - AI & Machine Learning 
 
-Contact: ads137485@jbnu.ac.kr
-
 ## 🌐 My Website
-🌱 Coming Soon... (현재 개발 중)
+- 🌱 Coming Soon... (현재 개발 중)
 
 ## 🛠️ Tech Stack
 
