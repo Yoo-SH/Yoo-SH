@@ -1,6 +1,6 @@
 ## 💡Areas of Interest
 - Backend Development 
-- AI & Machine Learning 
+- AI Engineering & RAG Systems
 
 ## 🌐 My Website
 - 🌱 Coming Soon... (현재 개발 중)
@@ -17,12 +17,17 @@
 |Logging & Monitoring| |
 |DevOps| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  |
 
-## 🎖️ Awards/Certificates
-🏅 2025 호남 IS 코딩챌린지 장려상
+## 🏆 Awards
+- 🏅 2025 호남 IS 코딩챌린지 **장려상**
+- 🥉 2025 SW중심대학 LLM 해커톤 **우수상**
+- 🥇 2024 공공데이터 활용 창업경진대회 **대상**
 
-🥉 2025 SW중심대학 호남권 LLM 해커톤 경진대회 우수상
 
-🥇 2024 전북테크노파크 공공데이터 활용 창업경진대회 제품 및 서비스 개발 부분 대상
+## 📜 Certificates
+- 정보처리기사 (2025)
+
+## 📐 Algorithm / Solved.ac
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asd137485)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yoo-SH&theme=default)
