@@ -2,6 +2,13 @@
 - Backend Development 
 - AI Engineering & RAG Systems
 
+## 🎓 Education / Experience
+
+- **프로그래머스 백엔드 단기심화 4기**
+- **전북대학교 컴퓨터인공지능학부**
+- **전북대학교 웹개발 동아리 JAVIS**
+
+    
 ## 🌐 My Website
 - 🌱 Coming Soon... (현재 개발 중)
 
