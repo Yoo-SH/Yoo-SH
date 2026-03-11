@@ -25,28 +25,27 @@
 |DevOps| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  |
 
 ## 🏆 Awards
-[교외 수상]
-- 🥈 2025 한국지능정보사회진흥원 AI 챌린지 시즌2 최우수상
-  - 프로젝트: 응급실 병상 매칭 & KTAS 기반 의료 RAG 서비스 ‘Triage’
-  - 내용: KTAS 코드 기반 응급실 병상 매칭 및 의료 문서 RAG 검색 시스템 구현
+### 교외 수상
+🥈 **2025 한국지능정보사회진흥원 AI 챌린지 시즌2 최우수상**
+- 프로젝트: 응급실 병상 매칭 & KTAS 기반 의료 RAG 서비스 ‘Triage’
+- 내용: KTAS 코드 기반 응급실 병상 매칭 및 의료 문서 RAG 검색 시스템 구현
 
-- 🏅 2025 호남 IS 코딩챌린지 장려상
-  - 프로젝트: 아동급식카드 RAG 챗봇 ‘ChildFoodCard’
-  - 내용: 전주시 가맹점 검색을 위한 공공데이터 기반 AI 챗봇
+🏅 **2025 호남 IS 코딩챌린지 장려상**
+- 프로젝트: 아동급식카드 RAG 챗봇 ‘ChildFoodCard’
+- 내용: 전주시 가맹점 검색을 위한 공공데이터 기반 AI 챗봇
 
-- 🥇 2024 전북특별자치도 공공데이터 활용 창업경진대회 대상
-  - 프로젝트: 동물 의약·식품 통합 검색 서비스
-  - 내용: 공공데이터 기반 동물 의약/식품 상세 검색 API 개발
+🥇 **2024 전북특별자치도 공공데이터 활용 창업경진대회 대상**
+- 프로젝트: 동물 의약·식품 통합 검색 서비스
+- 내용: 공공데이터 기반 동물 의약/식품 상세 검색 개발
 
-[교내 수상]
+### 교내 수상
+🥈 **2025 전북대학교 컴퓨터인공지능학부 경진대회 은상**
+- 프로젝트: 자체 호스팅 RAG 시스템
+- 내용: 내부 문서 검색을 위한 RAG 기반 MCP 서비스 구축
 
-- 🥈 2025 전북대학교 컴퓨터인공지능학부 경진대회 은상
-  - 프로젝트: 자체 호스팅 RAG 시스템
-  - 내용: 내부 문서 검색을 위한 RAG 기반 MCP 서비스 구축
-
-- 🥉 2025 전북대학교 SW중심사업단 캡스톤디자인 우수상
-  - 프로젝트: 건설·행정 규정 자동 질의응답 ‘Construction-RAG’
-  - 내용: 건설·행정 법률 문서 기반 RAG 질의응답 시스템 개발
+🥉 **2025 전북대학교 SW중심사업단 캡스톤디자인 우수상**
+- 프로젝트: 건설·행정 규정 자동 질의응답 ‘Construction-RAG’
+- 내용: 건설·행정 법률 문서 기반 RAG 질의응답 시스템 개발
 
 ## 📜 Certificates
 - 정보처리기사 (2025)
