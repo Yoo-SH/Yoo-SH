@@ -1,3 +1,6 @@
+## 🌐 My Website
+**유승현 포트폴리오 ([Portfolio](https://yoo-sh.github.io/))**
+
 ## 💡Areas of Interest
 - Backend Development 
 - AI Engineering & RAG Systems
@@ -9,10 +12,6 @@
 | **프로그래머스 백엔드 단기심화 4기 수료** |  **2025.12 ~ 2026.02** |
 | **전북대학교 컴퓨터공학부 학사 졸업** |  **2020.03 ~ 2026.02** |
 
-
-    
-## 🌐 My Website
-**유승현 포트폴리오 ([Portfolio](https://yoo-sh.github.io/))**
 
 ## 🛠️ Tech Stack
 
