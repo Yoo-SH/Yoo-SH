@@ -26,24 +26,4 @@
 |Logging & Monitoring| ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)|
 |DevOps| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  |
 
-## 🚀 Projects
-
-|기간       | 프로젝트명                  | 내용 (핵심 키워드)                                                        |
-| ------------------- | ----------- | ------------------------------------------------------------------ |
-|**2026.02** | **semicolon** |  **이커머스 중고 물품 플랫폼 AI/정산/모니터링 개발** |
-|**2025.12** | **twinsolution_co** |  **건설·행정 규정 자동 질의응답 시스템 ‘Construction‑RAG’ AI/RAG 연구 및 Backend 개발** |
-|**2025.11**| **triage**          |   **응급실 병상 매칭 & KTAS 기반 의료 RAG 서비스 ‘Triage’ Backend·AI 개발**          |
-|**2025.10**| **chold_food_card** |   **아동급식카드 지침 RAG 기반 맞춤 정보 서비스 ‘ChildFoodCard’ Fullstack 개발**        |
-|**2025.08**| **open_context**    |   **자체 호스팅 RAG 시스템 개발, 내부 문서 검색 및 MCP 제공**                            |
-|**2025.06**| **all4land_co**     |  **얼굴 인식 출입통제 시스템 개발, ArcFace·Kafka·Spring Boot 적용**                |
-|**2024.11**| **cbt_diary**       |   **AI 감정 분석·CBT 추천 일기 앱 개발**                                        |
-|**2024.08**| **oasst**           |  **OASST법률 대화 데이터 (네이버 지식인, 네이버 블로그, 네이버 카페, 로톡 데이터 크롤링) 수집**                    |
-
-
-## 📐 Algorithm / Solved.ac
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asd137485)
-
-## 📊 GitHub Stats
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yoo-SH&theme=default)
-
 
